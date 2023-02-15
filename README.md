@@ -24,7 +24,7 @@ En el directorio [SQL scripts](https://github.com/LauraDanielamg/Proyecto-Final-
 
 2.La visualicación de las métricas:
 
-Se ha realizado con Tableau. 
+Se ha realizado con [*Tableau.*](https://github.com/LauraDanielamg/Proyecto-Final-KeepCoding/blob/main/Tableau/airbnb%20FINAL%20.twb) 
 
 3. Realización del modelo predictivo de regresion lineal
 
